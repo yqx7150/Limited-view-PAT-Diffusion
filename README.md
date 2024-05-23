@@ -6,8 +6,7 @@ Guo, K., Zheng, Z., Zhong, W., Li, Z., Wang, G., Li, J., ... & Song, X. (2024). 
 
 ## Forward and reverse processes of diffusion model.
 
-![1716436311382](C:\Users\汪贵军\AppData\Roaming\Typora\typora-user-images\1716436311382.png)
-
+<div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig1.png"> </div>
 
 
 ## Reconstruction flowchart of limited-view PAT.

@@ -6,16 +6,17 @@ Guo, K., Zheng, Z., Zhong, W., Li, Z., Wang, G., Li, J., ... & Song, X. (2024). 
 
 ## Forward and reverse processes of diffusion model.
 
-<div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig1.png"> </div>
+
+<div align="center"><img src="https://github.com/yqx7150/Limited-view-PAT-Diffusion/blob/main/Figure1.png"> </div>
 
 
 ## Reconstruction flowchart of limited-view PAT.
 
-![1716436625157](C:\Users\汪贵军\AppData\Roaming\Typora\typora-user-images\1716436625157.png)
+<div align="center"><img src="https://github.com/yqx7150/Limited-view-PAT-Diffusion/blob/main/Figure2.png"> </div>
 
 
 
 ## The reconstruction process of the circular phantom in limited-view case of 70°.
 
-![1716436809178](C:\Users\汪贵军\AppData\Roaming\Typora\typora-user-images\1716436809178.png)
+<div align="center"><img src="https://github.com/yqx7150/Limited-view-PAT-Diffusion/blob/main/Figure3.png"> </div>
 

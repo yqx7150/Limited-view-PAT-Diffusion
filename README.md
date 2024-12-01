@@ -30,6 +30,12 @@ Guo, K., Zheng, Z., Zhong, W., Li, Z., Wang, G., Li, J., ... & Song, X. (2024). 
 * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
 
+* Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model      
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000879)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Sinogram-Diffusion)
+    
+ * Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors  
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDM-PAT)   
+             
 * Unsupervised disentanglement strategy for mitigating artifact in photoacoustic tomography under extremely sparse view      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000302?via%3Dihub)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-ADN)
 

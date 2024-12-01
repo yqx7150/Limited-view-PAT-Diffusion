@@ -39,6 +39,9 @@ Guo, K., Zheng, Z., Zhong, W., Li, Z., Wang, G., Li, J., ... & Song, X. (2024). 
 * Unsupervised disentanglement strategy for mitigating artifact in photoacoustic tomography under extremely sparse view      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000302?via%3Dihub)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-ADN)
 
+* Mean-reverting diffusion model-enhanced acoustic-resolution photoacoustic microscopy for resolution enhancement: Toward optical resolution      
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1142/S1793545824500238)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/https://github.com/yqx7150/PAM-AR2OR)    
+
 * Generative model for sparse photoacoustic tomography artifact removal      
 [<font size=5>**[Paper]**</font>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12745/1274503/Generative-model-for-sparse-photoacoustic-tomography-artifact-removal/10.1117/12.2683128.short?SSO=1)   
 
